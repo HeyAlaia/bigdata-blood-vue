@@ -1,0 +1,262 @@
+{
+    "size": 16,
+    "level": 3,
+    "data": [
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.ZYDM",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.ZYDM",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.KBZTDM",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.KBZTDM",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.DWDM",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.DWDM",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.BZKZYDM",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.BZKZYDM",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.YJSZYDM",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.YJSZYDM",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.XZDM",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.XZDM",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.XKDLDM",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.XKDLDM",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.XKMLDM",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.XKMLDM",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.ZYBH",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.ZYBH",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.ZYMC",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.ZYMC",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.ZYYWM",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.ZYYWM",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.ZYJC",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.ZYJC",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.ZYFXDM",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.ZYFXDM",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.KBSJ",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.KBSJ",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.TBSJ",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.TBSJ",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      },
+      {
+        "refFields": [
+          {
+            "fieldName": "net_qtzdzyjsxx.dbo-ZY_ZYXXZB_CS.BZ",
+            "isFinal": false,
+            "index": 0,
+            "level": 0
+          }
+        ],
+        "targetField": {
+          "fieldName": "doris(ods_net_qtzdzyjsxx).ZY_ZYXXZB_CS.BZ",
+          "isFinal": false,
+          "index": 0,
+          "level": 0
+        }
+      }
+    ]
+  }
